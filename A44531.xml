@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The gentlemans jockey, and approved farrier instructing in the natures, causes, and cures of all diseases incident to horses. With an exact and easie method of breeding, buying, dieting, and otherwise ordering all sorts of horses, as well for common and ordinary use, as the heats and course. With divers other curiosities collected by the long practice, experience and pains of J.H. Esquire, Matthew Hodson, Mr. Holled, Mr. Willis, Mr. Robinson, Mr. Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw.</title>
+            <title>The gentlemans jockey, and approved farrier instructing in the natures, causes, and cures of all diseases incident to horses. With an exact and easie method of breeding, buying, dieting, and otherwise ordering all sorts of horses, as well for common and ordinary use, as the heats and course. With divers other curiosities collected by the long practice, experience and pains of J.H. Esquire, Matthew Hodson, Mr. Holled, Mr. Willis, Mr\ Robinson, Mr. Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw.</title>
             <title>Gentleman's jocky.</title>
             <author>Halfpenny, John, 18th cent.</author>
          </titleStmt>
@@ -44,7 +44,7 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title>The gentlemans jockey, and approved farrier instructing in the natures, causes, and cures of all diseases incident to horses. With an exact and easie method of breeding, buying, dieting, and otherwise ordering all sorts of horses, as well for common and ordinary use, as the heats and course. With divers other curiosities collected by the long practice, experience and pains of J.H. Esquire, Matthew Hodson, Mr. Holled, Mr. Willis, Mr. Robinson, Mr. Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw.</title>
+                  <title>The gentlemans jockey, and approved farrier instructing in the natures, causes, and cures of all diseases incident to horses. With an exact and easie method of breeding, buying, dieting, and otherwise ordering all sorts of horses, as well for common and ordinary use, as the heats and course. With divers other curiosities collected by the long practice, experience and pains of J.H. Esquire, Matthew Hodson, Mr. Holled, Mr. Willis, Mr\ Robinson, Mr. Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw.</title>
                   <title>Gentleman's jocky.</title>
                   <author>Halfpenny, John, 18th cent.</author>
                </titleStmt>
@@ -1648,7 +1648,12 @@ always to do this; To miſs the Maſter Vein, if it lye lengthwiſe in the body,
                <head>VII. <hi>The way to put in a</hi> French <hi>Rowel.</hi>
                </head>
                <p>THat is, upon the loweſt part of the Horſes breaſt to that ſide that is lame, you ſhall with a ſharp knife cut the skin through, not croſs the breaſt but right down, half the length of your finger, then put your finger between the skin and the fleſh, and raiſe the skin from the fleſh round about the hole the breadth of a ſix pence, then take a piece of the upper leather of a ſhooe, and cut it in the manner of this Figure here preſcribed; cut the piece of Leather round, and then cut out a hole</p>
-               <figure/>
+               <p>
+                  <figure/>
+
+                  <pb n="105" facs="tcp:32605:65"/>
+round, as you ſee by the figure, then put a Needle and a thread through it, as you may per<g ref="char:EOLhyphen"/>ceive by the two pricks in the top and bottom of the hole; then take a Tobacco-pipe or a quill, and cut it ſo that the wind may go through it; and put one end into the hole of his breaſt up<g ref="char:EOLhyphen"/>wards and blow in the wind, and beat the wind upwards to the top and all over his ſhoulder; when you have blown it two or three times, run the Needle and thread once through the Rowel and once through the skin, and draw the Rowel into the cut: When you have thus placed the Rowel in the cut, with the hole of the Rowel right againſt the hole that you have cut in the breaſt, ſo that it may not move: then with your Needle and thread run a ſtitch or two o<g ref="char:EOLhyphen"/>verthwart the cut to keep in the Rowel, as you are directed in the Margin: When you have done thus, anoint it with a piece of butter, and let the Rowel ſtand a week in the hole, and then cut the thread and take it out. This is the beſt Rowel that is. <hi>Proved.</hi>
+               </p>
                <figure/>
                <p>
                   <hi>Your breath muſt not ſmell of Tobacco when you blow the skin up (for a ſweet breath is beſt,) if it do, the place will ſwell the more.</hi>
